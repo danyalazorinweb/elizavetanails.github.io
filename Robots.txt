@@ -2,4 +2,4 @@
 
 User-agent: *
 Disallow: 
-Sitemap: https://zhanna-kazakova.ru/sitemap.xml
+Sitemap: http://elizavetanails.site/sitemap.xml
